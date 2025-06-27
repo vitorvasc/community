@@ -73,6 +73,7 @@ members:
   - ejscunha
   - erenatas
   - ericpattison
+  - erka
   - fabriziodemaria
   - falghi
   - faulkt
@@ -135,6 +136,7 @@ members:
   - ryanprayogo
   - s-sen
   - sago2k8
+  - sahidvelji
   - salaboy
   - sheepduke
   - sideshowcoder
@@ -143,6 +145,7 @@ members:
   - skyerus
   - ssharaev
   - staceypotter
+  - tangenti
   - tcarrio
   - technicalpickles
   - tegenterter
@@ -189,10 +192,11 @@ teams:
     members:
       - beeme1mr
       - AloisReitbauer
-      - AlexsJones
       - moredip
-      - justinabrahms
       - dabeeeenster
+      - jrydberg
+      - jonathannorris
+      - weyert
 
   Interested Parties:
     description: Group for members of https://github.com/openfeatureflags/governance/blob/main/interested-parties.md
@@ -299,6 +303,8 @@ repos:
     has_projects: false
   kotlin-sdk:
     description: Kotlin implementation of the OpenFeature SDK for Android clients
+  kotlin-sdk-contrib:
+    description: Community contributions for hooks and reference providers
   ofep:
     description: A focal point for OpenFeature research, proposals and requests
       for comments
